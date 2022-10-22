@@ -1,5 +1,7 @@
 #include<iostream>
+
 using namespace std;
+
 int main()
 {
 	int num1,num2;
@@ -8,4 +10,6 @@ int main()
 	cout<<"enter te vlue of num1 : \n";
 	cin>>num2;
 	cout<<"the sum of num1 and num2 = "<<num1+num2;
+	
+	return 0; // Optional line
 }
